@@ -67,3 +67,12 @@ I can say from experience that this is a very difficult trail. It's hilly the en
 * Type: loop
 
 I haven't done this trail before, but it looks like a good option when we want an all-day challenge. --Jerrad
+
+## [Göteborgs Skärgårdsled](https://www.alltrails.com/trail/sweden/vastra-gotaland/goteborgs-skargardsled?sh=awmbcb)
+
+* Length: 21.9 km
+* Difficulty: Moderate
+* Estimated time: 4h15m
+* Type: point to point
+
+Another good option for an all-day hike, this trail runs from Fotö in the south to Hälsö in the north through Honö and Öckerö. I'm thinking about doing this one on Sept 13. --Jerrad
