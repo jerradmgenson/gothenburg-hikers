@@ -30,14 +30,16 @@ A list of interesting trails that we would like to hike.
 * Estimated time: 1hr27m
 * Type: loop
 
+When we do this and the Rörö trail, we might want to combine it with another activity (eg a picnic with a long time for swimming and socialization) so it isn't too short. Alternatively, we could also do another trail on a nearby island on the same hike. --Jerrad
+
 ## [Rörö Blå](https://www.alltrails.com/trail/sweden/vastra-gotaland/roro-bla?sh=awmbcb)
 
 * Length: 5.6 km
-* Difficulty: Moderate
+* Difficulty: Hard
 * Estimated time: 1hr8m
 * Type: loop
 
-When we do this and the Vrångö Loop trail, we might want to combine it with another activity (eg a picnic with a long time for swimming and socialization) so it isn't too short. Alternatively, we could also do another trail on a nearby island on the same hike. --Jerrad
+There are some small mountains on Rörö that I like to climb when I go hiking here. They don't require actual climbing gear, just scrambling, but I think it's a good way to make up for the short trail length. It's also why I rated the difficulty as "hard" for this trail. --Jerrad
 
 ## [Klippans naturreservat](https://www.alltrails.com/trail/sweden/vastra-gotaland/hindas-milen?sh=awmbcb)
 
