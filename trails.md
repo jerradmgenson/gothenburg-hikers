@@ -82,3 +82,12 @@ I haven't done this trail before, but it looks like a good option when we want a
 * Type: point to point
 
 Another good option for an all-day hike, this trail runs from Fotö in the south to Hälsö in the north through Honö and Öckerö. I'm thinking about doing this one on Sept 13. --Jerrad
+
+## [Stora Härsjörundan](https://www.alltrails.com/sv-se/led/sweden/vastra-gotaland/stora-harsjonrundan)
+
+* Length: 13.7 km
+* Difficulty: Moderate
+* Estimated time: 3h49m
+* Type: loop
+
+This hike is rated moderate on AllTrails, but that is mostly due to its length. The trail itself is quite easy, with mostly gravel paths and minor elevation changes. It makes a great winter hike, with some parts accessible only if the lake freezes over. Access by public transport is difficult, so this one could be tricky to organize on its own. One idea could be to include it as part of a multi-day hike, combining it with a nearby trail. --Younes
