@@ -91,3 +91,12 @@ Another good option for an all-day hike, this trail runs from Fotö in the south
 * Type: loop
 
 This hike is rated moderate on AllTrails, but that is mostly due to its length. The trail itself is quite easy, with mostly gravel paths and minor elevation changes. It makes a great winter hike, with some parts accessible only if the lake freezes over. Access by public transport is difficult, so this one could be tricky to organize on its own. One idea could be to include it as part of a multi-day hike, combining it with a nearby trail. --Younes
+
+## [Hallen - Öjersjö Roundloop ](https://www.alltrails.com/sv-se/led/sweden/vastra-gotaland/hallen-lilla-kasjon-stora-kasjon-ojersjo)
+
+* Length: 11.9 km
+* Difficulty: Hard
+* Estimated time: 4h
+* Type: loop
+
+A difficult trail. Could be a good alternative when we want something more challenging. --Younes
